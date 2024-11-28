@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1731125014 source:f:\fadhilah\pelajaran\kuliah\computing_lab\ccp_2024\stack4\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1731125014 source:f:\fadhilah\pelajaran\kuliah\computing_lab\ccp_2024\stack_operation\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
